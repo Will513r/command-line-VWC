@@ -1,10 +1,14 @@
 Used nano to add a note to my txt file.
 
-vi is a text editor that has different modes
-` navigation
-` editing
- `running commands. I navigated thru a text file with this command. 
- I did not do much else as it became difficult to understand what was going on.
+ 3-write-a-paragraph-comparing-cli-and-gui
+vi is a text editor that has different modes for 
+`navigation
+`editing
+`running commands. 
+I navigated thru a text file with this command. 
+I did not do much else as it became difficult to understand what was going on.
 
-emacs did not work in my terminal but my understanding is it is similar to 
-how the other commands work in this section with two modes normal and insert.
+emacs did not work in my terminal but my understanding is it is similar 
+to how the other commands work in this section with two modes normal and insert.
+
+

@@ -1,0 +1,11 @@
+The CLI and the GUI pronounced gooey are two ways that the user can interact with the machine;
+ one the CLI or command line interface is through keyboard only and has a steep learning curve
+  but allows for less system requirements and has more precise control of the machine. 
+  Two the GUI or graphical user interface is what most users are used to and that is thought of
+   the applications and desktop icons which is usually more intuitive and has a much lower learning
+    curve. But requires more system requirements.
+So while the CLI is much faster and precise it is extremely difficult to master and has a very 
+steep learning curve. As for the GUI the learning curve is much lower but it requires more power
+ from the machine and is not as precise or as fast. So depending on what your purpose of using the
+  machine will decide which interface you will need to use as they do the same thing but 
+  for different reasons.
