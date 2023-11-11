@@ -1,0 +1,3 @@
+GREP or Global Regular Expression Print is used for pattern matching
+ to search for certain characters in files, 
+which comes in handy when sifting through massive amount of files.
