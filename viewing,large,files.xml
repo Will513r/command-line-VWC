@@ -1,0 +1,3 @@
+The ```cat``` command or concatenate is used to copy files and search for certain files.
+You can use the ```less``` command to view large files section by section, so it doesn't load the whole file at once.
+The ```more``` command allows you to view a file one page at a time this is useful when you have lots of pages but only need one page at a time.
