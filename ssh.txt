@@ -1,0 +1,3 @@
+I actively created key pairs for ssh found out that the passphrase does not show up vissually when typing
+added it to my git hub by figuring out how to find the key. and had chat gtp explain why i would need to do this. 
+I still dont fully understand in what situations Ii would need to do this But I have done it.
