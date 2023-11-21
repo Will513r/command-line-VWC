@@ -1,3 +1,12 @@
-I actively created key pairs for ssh found out that the passphrase does not show up vissually when typing
-added it to my git hub by figuring out how to find the key. and had chat gtp explain why i would need to do this. 
-I still dont fully understand in what situations Ii would need to do this But I have done it.
+SSH is a way for the user to securely remote into their github repositories so they can work in the code bases
+The reason they are more secure is they use keys instead of passwords
+It can also be useful when automating git operations (per ChatGTP)
+First I had to generate the ssh keys on my machine using the email associated with my github.
+While I was doing this it asked me if I wanted a passphrase as I was typing it in I realized I couldn't see 
+what I was typing for security purposes. I had to research why this was happening and make sure I didnt input the wrong passphrase 
+But it wants you to re enter the same phrase to ensure I didnt make the mistake I thought I was going to make.
+Next step was to assign the key to an agent for added security and not just having the key in an open file.
+(which at first I thought was the key)
+After that you add the key to github by going to the settings and hitting add public key and just copy and paste the key in there
+You also name the key so can help separate work and personal or whatever reason you may have multiple keys.
+Lastly you verify the connection which if successful You should receive a message indicating a successful authentication.
